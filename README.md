@@ -7,3 +7,18 @@ MacOS M3
 - brew install hashicorp/tap/vault
 
 UI runs on port 8200
+
+AOP
+3 W's :
+
+- WHAT Aspect
+- WHEN Advice
+- WHICH Pointcut
+
+Types of advices
+
+- @Before
+- @AfterReturning
+- @AfterThrowing
+- @After
+- @Around (most powerful)
